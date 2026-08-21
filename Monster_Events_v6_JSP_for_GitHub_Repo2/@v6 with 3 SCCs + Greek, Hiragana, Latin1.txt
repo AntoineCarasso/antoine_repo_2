@@ -1,0 +1,5 @@
+Sample source code for testing the TCC, uploaded into the GitHub repo "antoine_repo_2"
+
+La classe qui contient le "main(String[] args)" est CallAllJVEntryPts ("Run As > Java Application")
+
+Le workspace Eclipse est dans E:\SCRAIP-31857-Filter Java Links\workspace
